@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azhar</h1>
-<h3 align="center">A passionate self-learner</h3>
+<h3 align="center">A passionate full-stack engineer</h3>
 
 - 🌱 I’m currently studying **MIT 6.009 & MIT 6.042**
 
