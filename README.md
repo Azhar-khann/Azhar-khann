@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Azhar</h1>
 <h3 align="center">A passionate full-stack engineer</h3>
 
+## About me
+
+I'm Azhar, a self-learned full stack engineer deeply entrenched in the world of programming and STEM fields. The intricacies of the digital universe have always captivated me, and I revel in the exploration of new programming paradigms, algorithms, and the limitless possibilities they unlock.
+
+#### 💻 My Passion for Programming
+
+In the vast landscape of computer science, I find solace and excitement. My programming journey spans various languages, and I relish the challenge of creating web applications and tinkering with code to find that optimal solution. The dynamic nature of coding allows me to translate abstract ideas into functional realities, an alchemical process I find both intellectually stimulating and deeply satisfying.
+
+#### 🚀 Exploring STEM Horizons
+
+I also enjoy exploring the world of theoretical computer science. Delving into concepts like discrete mathematics and the foundations of computation, I find immense fascination. Understanding the abstract laws governing computation feels like unlocking the secrets of algorithmic complexities and the theoretical aspects that underpin our digital world.
+
+#### 🎓 Continuous Learning
+
+The learning journey never ends for me. I am a perpetual student, always seeking new challenges and opportunities to expand my skill set. Whether it's mastering a new programming language, diving into web development projects, or deepening my understanding of complex algorithms, every endeavor is a chance to grow and refine my craft.
+
 - 🌱 I’m currently studying **MIT 6.009 & MIT 6.042**
 
 - 📫 How to reach me **azhar.uddinn.work@gmail.com**
