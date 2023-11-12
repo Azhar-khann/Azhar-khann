@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm Azhar, a self-learned full stack engineer deeply entrenched in the world of programming and STEM fields. The intricacies of the digital universe have always captivated me, and I revel in the exploration of new programming paradigms, algorithms, and the limitless possibilities they unlock.
+I'm Azhar, a self-learned full stack engineer deeply entrenched in the world of programming. The intricacies of the digital universe have always captivated me, and I revel in the exploration of new programming paradigms, algorithms, and the limitless possibilities they unlock.
 
 
 - 🌱 I’m currently studying **MIT 6.009 & MIT 6.042**
